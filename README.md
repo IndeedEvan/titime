@@ -17,5 +17,9 @@ MySQL - PHP (with sendmail..) - Apache/Nginx or other..
 - Edit table wp-options : 'siteurl' and 'home' fields with you host adress
 - Go to homepage, enjoy :)
 
+## Default users
+Admin: admin / demo_admin 
+Retailer user: user / demo_user
+
 
 
