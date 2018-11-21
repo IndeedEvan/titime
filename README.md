@@ -14,7 +14,7 @@ MySQL - PHP (with sendmail..) - Apache/Nginx or other..
 - Clone the repository
 - Import titime.sql in your DB
 - Edit wp-config with DB infos (DB_NAME, DB_USER, DB_PASSWORD et DB_HOST)
-- Edit table wp-options : 'siteurl' and 'home' fields with you host adress
+- Edit table wp-options : 'siteurl' and 'home' fields with your host address
 - Go to homepage, enjoy :)
 
 ## Default users
